@@ -13,7 +13,7 @@ Before you kick-start your tireless exam preparations, always take a diagnostic 
 
 Layout a conducive study approach that works for you by analyzing your precursory mock test score. Your schedule should fill the gap between where you are and where you aim to be by strategically tackling all of the three sections in GRE. Dedicating an average of 2-3 attentive hours each day should generally suffice. Over the next 30 days, space out each section’s preparation by alternating them on different days, and try to follow the recommended resource guides for every section to improve your test outcome.
 
-* Verbal Reasoning
+* __Verbal Reasoning__
 
 The Verbal section in GRE comprises three question types: __Text Completion, Sentence Equivalence and Reading Comprehension__. Begin with reading on how to approach verbal questions, and start solving sample sets of each question type. Gradually increase the number of questions you solve and their level of difficulty in subsequent weeks.
 
@@ -22,12 +22,12 @@ __Magoosh’s Premium Portal__ offers several preparatory video lessons and usef
 __Magoosh’s Vocabulary Builder app__ is a highly recommended source to learn new words and build a strong vocab. This free and interactive app is available on both Play Store and App Store and features 1000 words segregated into three difficulty levels: Basic, Intermediate and Advanced. A good strategy would be to keep alternate learning and revision days: learn 60-70 new words on each odd day, and revise those words on the subsequent even days.
 Barron’s GRE book can also be referred to for intensive verbal preparation.
 
-* Quantitative Reasoning
+* __Quantitative Reasoning__
 
 This section has questions in the form of Quantitative Comparison, Problem Solving and Data Interpretation. Start by brushing up on math fundamentals, and progress through all topics schematically.
-The 5lb Book of GRE Practice Problems by Manhattan is well-acclaimed as preparation material for Quantitative Reasoning. It includes 26 chapters which cover all the various topics under GRE, and one math practice section. One chapter a day with a revision of the previous chapters done, followed by solving practice sets will make you well-versed with all the concepts required to ace this section.
+The __5lb Book of GRE Practice Problems by Manhattan__ is well-acclaimed as preparation material for Quantitative Reasoning. It includes 26 chapters which cover all the various topics under GRE, and one math practice section. One chapter a day with a revision of the previous chapters done, followed by solving practice sets will make you well-versed with all the concepts required to ace this section.
 
-Another worthwhile resource material is Manhattan Prep’s Set of 8 GRE Math Strategies which covers all math concepts tested in GRE and provides a time=saving approach to solving specific questions.
+Another worthwhile resource material is __Manhattan Prep’s Set of 8 GRE Math__ Strategies which covers all math concepts tested in GRE and provides a time=saving approach to solving specific questions.
 
 * Analytical Writing Assessment (AWA)
 
