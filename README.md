@@ -1,7 +1,7 @@
 # GRE-PREP-Material
 This repository contains the information about the Barron's 3500 english Words for Vocabulary and other sections of GRE. This will be updated with more and more info so that you guys get the best out of it. As i am also preparing so pardon me if i am write something wrong. So, lets get this started with.
 
-# How do I prepare for GRE in 45 days?
+# How do We prepare for GRE in 45 days?
 
 If you are a prospective applicant aiming to pursue their Master’s in the United States, you’re probably familiar with the Graduate Record Examinations, or GRE. Having a good GRE score in your university application plays an extremely vital role in building your odds of securing admittance to your dream university, and you need just 45 days to make it happen. Here’s how:
 
